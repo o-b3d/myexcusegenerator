@@ -1,1 +1,1 @@
-# My Excuse Generator
+My Excuse Generator
